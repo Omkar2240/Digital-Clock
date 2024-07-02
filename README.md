@@ -1,5 +1,5 @@
 # Digital-Clock
- A basic digital watch as a begineer's project.
+ A basic digital watch as a beginner's project.
 
 This is my first project.
 
