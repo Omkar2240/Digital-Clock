@@ -1,0 +1,62 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background-image: url("luxa.org-opacity-changed-Designer.jpeg");
+    
+}
+.main {
+    background-color: rgba(0, 0, 0, 0.803);
+    width: 400px;
+    height: 175px;
+    margin: 100px auto;
+    position: relative;
+    padding: 30px;
+}
+
+.badge {
+    background-color: rgba(218, 171, 28, 0.852);
+    color: white;
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: 37%;
+    border-radius: 10px;
+    
+}
+
+.clock {
+    background-color: rgb(224, 222, 225);
+    text-align: center;
+    font-size: 55px;
+    height: 100%;
+    padding-top: 25px;
+    font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal; 
+  border-radius: 4px;
+}
+
+.Hour {
+    background-color: aquamarine;
+}
+
+.Minute {
+    background-color: aquamarine;
+}
+
+.Second {
+    background-color: aquamarine;
+}
+
+
+
